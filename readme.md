@@ -27,7 +27,7 @@ TaskTracker is a simple yet powerful task management API built with Django, desi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/skp3214/12114973_frontend.git
+   git clone https://github.com/skp3214/12114973_backend.git
    cd TaskTracker
    ```
 
